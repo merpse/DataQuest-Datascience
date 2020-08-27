@@ -2,24 +2,30 @@
 
 # Lab Work Repo for the Data Science Training from DataQuest
 
-# Mission #1: Profitable App Profiles for the App Store and Google Play markets Status: Done
+# Mission #1: Profitable App Profiles for the App Store and Google Play markets 
 
-## Project Folder 1: first_mission_mp_06092020.ipynb
+## Status: Done
 
-Tools used: First Mission: Profitable App Profiles for the App Store and Google Play markets
+### Project Folder 1: first_mission_mp_06092020.ipynb
 
-Data retrieved from the Kaggle website
-Tools used are Jupyter Notebook and Anaconda
-Postgres used to import and validate data from the the Excel Files (optional)
-Python used as the main tool to validate data from the Excel Files and to display results in the Jupyter Notebook
+**Approach and Tools used:** 
 
-# Mission#2: Status: Done
+1. Data retrieved from the Kaggle website
+2. Tools used are Jupyter Notebook and Anaconda
+3. Postgres used to import and validate data from the the Excel Files (optional)
+4. Python used as the main tool to validate data from the Excel Files and to display results in the Jupyter Notebook
+
+
+# Mission#2: Hacker News Rank News Post
+
+## Status: Done
 
 ## Project Folder 2: second_mission_mp_08102020.ipynb
 
-Tools used: Second Mission: Hacker News Rank News Post
+**Approach and Tools used:**
 
-Data retrieved from Kaggle URL: (https://www.kaggle.com/hacker-news/hacker-news-posts)
-Tools used are Jupyter Notebook from Dataquest.io
-Python used as the main tool to analyze data and display results
-Note: Future Projects will be added once they are completed.
+1. Data retrieved from Kaggle URL: (https://www.kaggle.com/hacker-news/hacker-news-posts)
+2. Tools used are Jupyter Notebook from Dataquest.io
+3. Python used as the main tool to analyze data and display results
+
+**Note: Future Projects will be added once they are completed.**
