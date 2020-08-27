@@ -29,4 +29,4 @@
 3. Python used as the main tool to analyze data and display results
 
 
-##Note: Future Projects will be added once they are completed.##
+## Note: Future Projects will be added once they are completed.
