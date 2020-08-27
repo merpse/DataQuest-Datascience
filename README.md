@@ -4,7 +4,7 @@
 
 # Mission #1: Profitable App Profiles for the App Store and Google Play markets 
 
-## Status: Done
+### Status: Done
 
 ### Project Folder 1: first_mission_mp_06092020.ipynb
 
@@ -18,9 +18,9 @@
 
 # Mission#2: Hacker News Rank News Post
 
-## Status: Done
+### Status: Done
 
-## Project Folder 2: second_mission_mp_08102020.ipynb
+### Project Folder 2: second_mission_mp_08102020.ipynb
 
 **Approach and Tools used:**
 
@@ -28,4 +28,5 @@
 2. Tools used are Jupyter Notebook from Dataquest.io
 3. Python used as the main tool to analyze data and display results
 
-**Note: Future Projects will be added once they are completed.**
+
+##Note: Future Projects will be added once they are completed.##
