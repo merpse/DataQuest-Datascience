@@ -4,7 +4,7 @@
 
 # Mission #1: Profitable App Profiles for the App Store and Google Play markets Status: Done
 
-Project File: first_mission_mp_06092020.ipynb
+## Project Folder 1: first_mission_mp_06092020.ipynb
 
 Tools used: First Mission: Profitable App Profiles for the App Store and Google Play markets
 
@@ -15,7 +15,7 @@ Python used as the main tool to validate data from the Excel Files and to displa
 
 # Mission#2: Status: Done
 
-Project File: second_mission_mp_08102020.ipynb
+## Project Folder 2: second_mission_mp_08102020.ipynb
 
 Tools used: Second Mission: Hacker News Rank News Post
 
