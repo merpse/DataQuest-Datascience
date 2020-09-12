@@ -12,7 +12,7 @@
 
 1. Data retrieved from the Kaggle website
 2. Tools used are Jupyter Notebook and Anaconda
-3. Postgres used to import and validate data from the the Excel Files (optional)
+3. Postgres used to import and validate data from the Excel Files (optional)
 4. Python used as the main tool to validate data from the Excel Files and to display results in the Jupyter Notebook
 
 
