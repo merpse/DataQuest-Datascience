@@ -28,5 +28,16 @@
 2. Tools used are Jupyter Notebook from Dataquest.io
 3. Python used as the main tool to analyze data and display results
 
+# Mission#3 : Exploring eBay Car Sales Data
+
+### Status: Done
+
+### Project Folder 3 : third_mission_mp_04232022.ipynb
+
+**Approach and Tools used:**
+
+1.Data retrieved from URL: https://data.world/data-society/used-cars-data (moved from Kaggle)
+2. Tools used are Jupyter Notebook from Dataquest.io
+3. Python used as the main tool to analyze data and display results
 
 ## Note: Future Projects will be added once they are completed.
