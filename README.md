@@ -36,7 +36,7 @@
 
 **Approach and Tools used:**
 
-1.Data retrieved from URL: https://data.world/data-society/used-cars-data (moved from Kaggle)
+1. Data retrieved from URL: https://data.world/data-society/used-cars-data (moved from Kaggle)
 2. Tools used are Jupyter Notebook from Dataquest.io
 3. Python used as the main tool to analyze data and display results
 
